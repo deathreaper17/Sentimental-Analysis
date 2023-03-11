@@ -1,0 +1,5 @@
+Make sure to choose correct id. 
+take the correct input path.
+also take the correct output path.
+Check for all dependencies are intalled in your device.
+use suitable platform /ide for runnig the code.
